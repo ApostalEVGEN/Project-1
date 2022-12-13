@@ -5,7 +5,8 @@
 ## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
 [2. Задачи](.README.md#Задачи)    
-[3. Результат](.README.md#Результат)     
+[3. Результат](.README.md#Результат) 
+[4. Ссылки](.README.md#Ссылки) 
 
 ### Описание проекта    
 Работа с резюме с сайта HeadHunter, анализ данных
@@ -30,3 +31,9 @@
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
+### Ссылки:
+Ссылка на .CSV с таблицей data_hh.csv: https://drive.google.com/file/d/1hU6dYh2POuDDt0ryKDXvYFXkNaSOc9kO/view?usp=share_link
+
+
+
+:arrow_up:[к оглавлению](.README.md#Оглавление)
