@@ -34,7 +34,8 @@
 
 ### Ссылки:
 Ссылка на .CSV с таблицей data_hh.csv: https://drive.google.com/file/d/1hU6dYh2POuDDt0ryKDXvYFXkNaSOc9kO/view?usp=share_link
-
+В связи с тем, что качество изображений .png графиков оставляет желать лучшего, использован сайт для отображения графиков и кода в целом. Ссылка ниже для перехода:
+https://nbviewer.org/github/ApostalEVGEN/Project-1/blob/main/Project-1%28FINAL%29.ipynb
 
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
