@@ -1,3 +1,12 @@
 data_hh.csv
+dst-3.0_16_1_hh_database.csv
 
 **/_pycashe_/
+*.py[cod]
+*$py.class
+
+.Python
+dist
+downloads/
+
+.ipynb_checkpoints
